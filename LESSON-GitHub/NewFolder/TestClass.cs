@@ -8,5 +8,9 @@ namespace LESSON_GitHub.NewFolder
 {
     internal class TestClass
     {
+        public bool testmethod()
+        {
+            return false;
+        }
     }
 }
